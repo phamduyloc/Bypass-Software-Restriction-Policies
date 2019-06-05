@@ -1,0 +1,7 @@
+E:\_CODE\C#\BypassWhitelist\BypassWhitelist\bin\Release\BypassWhitelist.exe.config
+E:\_CODE\C#\BypassWhitelist\BypassWhitelist\bin\Release\BypassWhitelist.exe
+E:\_CODE\C#\BypassWhitelist\BypassWhitelist\bin\Release\BypassWhitelist.pdb
+E:\_CODE\C#\BypassWhitelist\BypassWhitelist\obj\Release\BypassWhitelist.csprojAssemblyReference.cache
+E:\_CODE\C#\BypassWhitelist\BypassWhitelist\obj\Release\BypassWhitelist.csproj.CoreCompileInputs.cache
+E:\_CODE\C#\BypassWhitelist\BypassWhitelist\obj\Release\BypassWhitelist.exe
+E:\_CODE\C#\BypassWhitelist\BypassWhitelist\obj\Release\BypassWhitelist.pdb
